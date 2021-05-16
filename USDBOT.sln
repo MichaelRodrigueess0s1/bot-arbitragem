@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USDBOT", "USDBOT.csproj", "{8F7AF01F-F4AD-4877-AB72-C61B4B770240}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bots", "Bots", "{5813C0AD-D70D-4FCD-92CC-1CBC8DFA5FA0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{657E3FF6-CDA3-4CC4-8045-4029417D611A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{CD7CB650-BE65-49CC-93CF-9D72F81C45DC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Indicators", "Indicators", "{F9AE9B68-1329-4EDF-9FF1-5712B2414F1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F7AF01F-F4AD-4877-AB72-C61B4B770240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F7AF01F-F4AD-4877-AB72-C61B4B770240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F7AF01F-F4AD-4877-AB72-C61B4B770240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F7AF01F-F4AD-4877-AB72-C61B4B770240}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{657E3FF6-CDA3-4CC4-8045-4029417D611A} = {5813C0AD-D70D-4FCD-92CC-1CBC8DFA5FA0}
+		{CD7CB650-BE65-49CC-93CF-9D72F81C45DC} = {5813C0AD-D70D-4FCD-92CC-1CBC8DFA5FA0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4A5ECAD-99B8-439A-8470-EC012AF2EE1E}
+	EndGlobalSection
+EndGlobal
